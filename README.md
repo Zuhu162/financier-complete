@@ -26,24 +26,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Sandwizard16/dund-sys_client">
-    <img src="./client/src/assets/financierLogo.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Zuhu162/financier-complete">
+    <img src="./client/src/assets/financierLogo.svg" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">Dunder Mifflin - Sys</h3>
-<h3> Link to fully hosted project with backend - <a href="https://eloquent-lamport-dbc1e6.netlify.app">https://financier-sys.herokuapp.com/</a> <h3>
+<h3> Link to fully hosted project with backend - <a href="https://financier-sys.herokuapp.com"></a> <h3>
 <h3> Link to backend code repo (NodeJS) 👩🏽‍💻- https://github.com/Zuhu162/financier-complete<h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/Sandwizard16/dund-sys_client"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Zuhu162/financier-complete"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Sandwizard16/dund-sys_client">View Demo</a>
+    <a href="https://financier-sys.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/Sandwizard16/dund-sys_client/issues">Report Bug</a>
+    <a href="https://github.com/Zuhu162/financier-complete/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Sandwizard16/dund-sys_client/issues">Request Feature</a>
+    <a href="https://github.com/Zuhu162/financier-complete/issues">Request Feature</a>
   </p>
 </div>
 
@@ -120,7 +120,7 @@ Please send an email at - zuhayersiddique162@gmail.com to get an account.
 
 ## Usage
 
-<h3>My main motivation towards building this project was finding out how to use data from the database displaying them using charts and graphs</h3>
+<h3></h3>
 <hr class="solid">
 <h4>The PieChart(From recharts) represents the number of clients each Sales Representatives have. The values are stored by referencing each client to their respective sales rep's unique id. Thus, creating a one to many relationship between sales reps and clients.</h4>
 <img src="./assets/PieChart.JPG" alt="piechart" width="500">
@@ -142,35 +142,32 @@ Please send an email at - zuhayersiddique162@gmail.com to get an account.
 
 ## New Things learnt
 
-- Using JWT for authorization and extract user data for different account features.
-- Using lodash library to implement some functionalities
-- Deploying and connecting app over Netlify and Heroku
-- Protecting routes
-- Better understanding of Asynchronous Javascript
+- Using embedded documents in MongoDB
+- Querying more complex documents in MongoDB
+- Better understanding of JavaScript Date object
 - Implementing and modelling relationships between different data
-- Better understanding of Forms in ReactJS
-- Deeper understanding of ReactJS hooks as I had learned React using Class Based components.
+- Calculations of data on the client side
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
 
 Email - zuhayersiddique162@gmail.com <br/>
-Project Link: [https://github.com/Sandwizard16/dund-sys_client](https://github.com/Sandwizard16/dund-sys_client) <br/>
-See the [open issues](https://github.com/Sandwizard16/dund-sys_client/issues) for a full list of proposed features (and known issues).
+Project Link: [https://github.com/Zuhu162/financier-complete](https://github.com/Zuhu162/financier-complete) <br/>
+See the [open issues](https://github.com/Zuhu162/financier-complete/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Sandwizard16/dund-sys_client.svg?style=for-the-badge
-[contributors-url]: https://github.com/Sandwizard16/dund-sys_client/graphs/contributors
+[contributors-url]: https://github.com/Zuhu162/financier-complete/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Sandwizard16/dund-sys_client.svg?style=for-the-badge
-[forks-url]: https://github.com/Sandwizard16/dund-sys_client/network/members
+[forks-url]: https://github.com/Zuhu162/financier-complete/network/members
 [stars-shield]: https://img.shields.io/github/stars/Sandwizard16/dund-sys_client.svg?style=for-the-badge
-[stars-url]: https://github.com/Sandwizard16/dund-sys_client/stargazers
+[stars-url]: https://github.com/Zuhu162/financier-complete/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Sandwizard16/dund-sys_client.svg?style=for-the-badge
-[issues-url]: https://github.com/Sandwizard16/dund-sys_client/issues
+[issues-url]: https://github.com/Zuhu162/financier-complete/issues
 [license-shield]: https://img.shields.io/github/license/Sandwizard16/dund-sys_client.svg?style=for-the-badge
-[license-url]: https://github.com/Sandwizard16/dund-sys_client/blob/master/LICENSE.txt
+[license-url]: https://github.com/Zuhu162/financier-complete/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: ./assets/Dashboard.JPG
+[product-screenshot]: .client/src/assets/Dashboard.JPG
