@@ -75,9 +75,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://eloquent-lamport-dbc1e6.netlify.app/)
 
-<h3>A project that combines my love for sitcoms and interest towards programming. <h3> <br/>
-<h4>This is a fullstack project, which consists of - </br> 🟦A simplistic UI, constructed of REACTJS (with the help of Material UI and Bootstrap), </br>🟩Powered by a backend API constructed of NodeJS </br> 🟪And MONGODB for the database. </br> Full details of libraries and frameworks used can be found on the section below. </br>
-The project's main functionality is providing a dashboard for employees and managers to monitor and input certain data (EG: Number of Clients, Employee details, Salesmen and their respective clients etc). It also takes the assistance of graphs and charts to visualize data and consists of features that are exclusive to admin accounts.</h4> <br/>
+<h3>An app made using ReactJS, ExpressJS and MongoDB that displays and helps to visualize the user's financial transactions. <h3> <br/>
+<h4>Highlights - </br> 🟦Only one axios call in the Dashboard to the API. All the data is passed on to the components through props.</br>🟩Only one Model in the Database that encapsulates all base user data</br> 🟪All calculations for graphs and charts are calculated on the client-side </br> Full details of libraries and frameworks used can be found on the section below. </br>
+The project's main focus was on building a real-life app that can be used to solve a daily problem like managing finance. <br/>  </h4> <br/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,9 +110,10 @@ Backend
 
 ## Getting Started
 
-The app is fully hosted on Heroku and Netlify - <a>https://eloquent-lamport-dbc1e6.netlify.app</a>.
-You require an account to browse the full features that are on this app.<br/>
-Please send an email at - zuhayersiddique162@gmail.com to get an account.
+The app is fully hosted on Heroku - <a>https://eloquent-lamport-dbc1e6.netlify.app</a>.
+You can sign up for a new account or use an existing account with data from the past 5 months to better understand the UI:<br/>
+
+<h6>Username: test2, Password: 1234</h6>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
