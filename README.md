@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Zuhu162/financier-complete">
-    <img src="./client/src/assets/financierLogo.svg" alt="Logo" width="180" height="180">
+    <img src="./client/src/assets/financierLogo.svg" alt="Logo" width="500" height="500">
   </a>
 
 <h3 align="center">Financier</h3>
