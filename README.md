@@ -31,8 +31,7 @@
   </a>
 
 <h3 align="center">Dunder Mifflin - Sys</h3>
-<h3> Link to fully hosted project with backend - <a href="https://financier-sys.herokuapp.com"></a> <h3>
-<h3> Link to backend code repo (NodeJS) 👩🏽‍💻- https://github.com/Zuhu162/financier-complete<h3>
+<h3> Link to fully hosted project with backend - <a href="https://financier-sys.herokuapp.com">https://financier-sys.herokuapp.com</a> <h3>
 
   <p align="center">
     <br />
@@ -73,7 +72,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://eloquent-lamport-dbc1e6.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://financier-sys.herokuapp.com)
 
 <h3>An app made using ReactJS, ExpressJS and MongoDB that displays and helps to visualize the user's financial transactions. <h3> <br/>
 <h4>Highlights - </br> 🟦Only one axios call in the Dashboard to the API. All the data is passed on to the components through props.</br>🟩Only one Model in the Database that encapsulates all base user data</br> 🟪All calculations for graphs and charts are calculated on the client-side </br> Full details of libraries and frameworks used can be found on the section below. </br>
