@@ -30,7 +30,7 @@
     <img src="./client/src/assets/financierLogo.svg" alt="Logo" width="180" height="180">
   </a>
 
-<h3 align="center">Dunder Mifflin - Sys</h3>
+<h3 align="center">Financier</h3>
 <h3> Link to fully hosted project with backend - <a href="https://financier-sys.herokuapp.com">https://financier-sys.herokuapp.com</a> <h3>
 
   <p align="center">
