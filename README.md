@@ -110,21 +110,21 @@ Backend
 
 ## Getting Started
 
-The app is fully hosted on Heroku - <a>https://eloquent-lamport-dbc1e6.netlify.app</a>.
+The app is fully hosted on Heroku - <a>https://financier-sys.herokuapp.com/</a>.
 You can sign up for a new account or use an existing account with data from the past 5 months to better understand the UI:<br/>
 
-<h6>Username: test2, Password: 1234</h6>
+<h4>Username: test2, Password: 1234</h4>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+<!-- ## Usage
 
 <h3></h3>
 <hr class="solid">
 <h4>The PieChart(From recharts) represents the number of clients each Sales Representatives have. The values are stored by referencing each client to their respective sales rep's unique id. Thus, creating a one to many relationship between sales reps and clients.</h4>
-<img src="./assets/PieChart.JPG" alt="piechart" width="500">
+<img src="./clients/src/assets/PieChart.JPG" alt="piechart" width="500">
 <hr class="solid">
 <h4>The noticeboard is a feature that is composed of MUI and can be used to pin important highlights and messages. It automatically takes the username from the logged in user's Json Web Token.</h4>
 <img src="./assets/NoticeBoard.JPG" alt="noticeboard" width="500">
@@ -139,7 +139,7 @@ You can sign up for a new account or use an existing account with data from the 
 <img src="./assets/NewEmployee.JPG" alt="NewEmployee" width="500">
 <hr class="solid">
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 ## New Things learnt
 
