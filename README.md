@@ -171,4 +171,4 @@ See the [open issues](https://github.com/Zuhu162/financier-complete/issues) for 
 [license-url]: https://github.com/Zuhu162/financier-complete/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: .client/src/assets/Dashboard.JPG
+[product-screenshot]: ./client/src/assets/Dashboard.JPG
