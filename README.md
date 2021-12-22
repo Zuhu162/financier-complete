@@ -73,7 +73,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://financier-sys.herokuapp.com)
-[![Product Name Screen Shot][product-structure]](https://financier-sys.herokuapp.com)
+<img src="./client/src/assets/ps.svg" alt="Logo" width="100%">
 
 <h3>An app made using ReactJS, ExpressJS and MongoDB that displays and helps to visualize the user's financial transactions. <h3> <br/>
 <h4>Highlights - </br> 🟦Only one axios call in the Dashboard to the API. All the data is passed on to the components through props.</br>🟩Only one Model in the Database that encapsulates all base user data</br> 🟪All calculations for graphs and charts are calculated on the client-side </br> Full details of libraries and frameworks used can be found on the section below. </br>
