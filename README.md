@@ -73,6 +73,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://financier-sys.herokuapp.com)
+[![Product Name Screen Shot][product-structure]](https://financier-sys.herokuapp.com)
 
 <h3>An app made using ReactJS, ExpressJS and MongoDB that displays and helps to visualize the user's financial transactions. <h3> <br/>
 <h4>Highlights - </br> 🟦Only one axios call in the Dashboard to the API. All the data is passed on to the components through props.</br>🟩Only one Model in the Database that encapsulates all base user data</br> 🟪All calculations for graphs and charts are calculated on the client-side </br> Full details of libraries and frameworks used can be found on the section below. </br>
@@ -171,3 +172,4 @@ See the [open issues](https://github.com/Zuhu162/financier-complete/issues) for 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: ./client/src/assets/Dashboard.JPG
+[product-structure]: ./client/src/assets/ps.svg
